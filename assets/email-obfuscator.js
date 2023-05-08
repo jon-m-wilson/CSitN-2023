@@ -26,6 +26,6 @@
 window.onload = function () {
 
     // Jon Wilson
-   document.getElementById("obf").innerHTML="<n uers=\"znvygb:wjvyfba30@hpyna.np.hx\" gnetrg=\"_oynax\">wjvyfba30@hpyna.np.hx</n>".replace(/[a-zA-Z]/g,function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);});
+   document.getElementById("organiser-email").innerHTML="<n uers=\"znvygb:wjvyfba30@hpyna.np.hx\" gnetrg=\"_oynax\">wjvyfba30@hpyna.np.hx</n>".replace(/[a-zA-Z]/g,function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);});
      
 };
